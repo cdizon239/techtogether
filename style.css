@@ -1,0 +1,16 @@
+img {
+  border-radius: 50%;
+  width: 10%;
+  height: 10%;
+}
+
+h1,h2 {
+  font-family: 'Open Sans', sans-serif;
+  color: #00577d
+}
+
+h3,p {
+  font-family: 'Open Sans', sans-serif;
+  weight: 300px;
+    
+}
